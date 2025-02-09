@@ -1,16 +1,51 @@
-## Hi there 👋
+# 💻 Full Stack Developer | PHP | Laravel | CodeIgniter | JavaScript 
 
+
+
+### Hi there! 👋 I'm prasad  
+I'm a passionate **Full Stack Developer** with expertise in **PHP, MySQL, Laravel, CodeIgniter, JavaScript, and more.** I love solving problems, building scalable applications, and contributing to open-source projects.
+
+---
+
+## 🔥 Skills & Technologies
+
+🚀 **Backend Development:**  
+- PHP (Core PHP, OOP)  
+- Laravel | CodeIgniter  
+- MySQL | SQL  
+- RESTful APIs | Third-Party APIs  
+- Payment Gateway Integration  
+
+🎨 **Frontend Development:**  
+- HTML5 | CSS3 | JavaScript  
+- Bootstrap | TailwindCSS  
+- AJAX | jQuery  
+
+⚙️ **DevOps & Tools:**  
+- Git | GitHub | GitLab  
+- LAMP | WAMP | XAMPP  
+- Linux | Windows  
+
+🛠️ **Other Technologies:**  
+- JSON | APIs | CMS (WordPress)  
+
+---
 <!--
-**mmpcode/mmpcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 GitHub Stats  
 
-Here are some ideas to get you started:
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
+</p> -->
+
+---
+
+## 📫 Connect with Me  
+📧 Email: yellowmalarkal@gmail.com  
+🔗 LinkedIn : https://www.linkedin.com/in/prasad-murugan/ 
+ 
+
+Let's build something amazing together! 🚀  
